@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:responsive_architecture/widgets/info_bar/info_widget.dart';
 
 import 'app_drawer.dart';
 
@@ -16,7 +17,13 @@ class AppDrawerTabletPortrait extends StatelessWidget {
         )
       ]),
       child: Row(
-        children: AppDrawer.getDrawerOptions(),
+        crossAxisAlignment: CrossAxisAlignment.center,
+        children: [
+          Row(
+            children: AppDrawer.getDrawerOptions(),
+          ),
+          InfoWidget()
+        ],
       ),
     );
   }
@@ -35,9 +42,18 @@ class AppDrawerTabletLandscape extends StatelessWidget {
           color: Colors.black12,
         )
       ]),
-      child: Column(
-        children: AppDrawer.getDrawerOptions(),
-      ),
+      child:
+          Column(
+            children: [
+              Container(
+                child: InfoWidget(),
+              ),
+              SizedBox(height: 50),
+              Column(
+                children: AppDrawer.getDrawerOptions(),
+              ),
+            ],
+          ),
     );
   }
 }

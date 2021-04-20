@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:responsive_architecture/widgets/info_bar/info_widget.dart';
 
 import 'app_drawer.dart';
 
@@ -16,7 +17,14 @@ class AppDrawerMobile extends StatelessWidget {
           color: Colors.black12,
         )
       ]),
-      child: Column(children: AppDrawer.getDrawerOptions(),),
+      child: Column(
+        children: [
+          Container(
+            child: InfoWidget(),
+          ),
+          Column(children: AppDrawer.getDrawerOptions()),
+        ],
+      ),
     );
   }
 }
