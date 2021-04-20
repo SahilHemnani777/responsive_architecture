@@ -1,16 +1,12 @@
-# responsive_architecture
+# responsive_architecture_design
 
-A new Flutter application.
+<img src="https://github.com/SahilHemnani777/responsive_architecture/blob/master/snapshots/Responsive_Architecture.png" alt="EShopee: Flutter eCommerce App" />
 
-## Getting Started
+## SnapShots
+<img src="https://github.com/SahilHemnani777/responsive_architecture/blob/master/snapshots/1.jpeg" alt="EShopee: Flutter eCommerce App" width="300" height="600"/><img src="https://github.com/SahilHemnani777/responsive_architecture/blob/master/snapshots/2.jpeg" alt="EShopee: Flutter eCommerce App" width="300" height="600"/>
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/SahilHemnani777/responsive_architecture/blob/master/snapshots/4.jpeg" alt="EShopee: Flutter eCommerce App" width="300" height="600"/><img src="https://github.com/SahilHemnani777/responsive_architecture/blob/master/snapshots/3.jpeg" alt="EShopee: Flutter eCommerce App" width="300" height="600"/>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## TODO App (Based on Same Architecture)
+<img src="https://github.com/SahilHemnani777/todo_list_provider/blob/master/snapshots/2.jpeg" alt="EShopee: Flutter eCommerce App" width="300" height="600"/><img src="https://github.com/SahilHemnani777/todo_list_provider/blob/master/snapshots/3.jpeg" alt="EShopee: Flutter eCommerce App" width="300" height="600"/><img src="https://github.com/SahilHemnani777/todo_list_provider/blob/master/snapshots/1.jpeg" alt="EShopee: Flutter eCommerce App" width="300" height="600"/>
+<img src="https://github.com/SahilHemnani777/todo_list_provider/blob/master/snapshots/4.jpeg" alt="EShopee: Flutter eCommerce App" width="300" height="600"/><img src="https://github.com/SahilHemnani777/todo_list_provider/blob/master/snapshots/5.jpeg" alt="EShopee: Flutter eCommerce App" width="300" height="600"/><img src="https://github.com/SahilHemnani777/todo_list_provider/blob/master/snapshots/video.gif" alt="EShopee: Flutter eCommerce App" width="300" height="600"/>
